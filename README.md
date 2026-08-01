@@ -6,3 +6,5 @@ A simple parser validation tool for JSON files in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `validator.py`
+
+*Initialized by wlakernotalnanathan workspace automation.*
